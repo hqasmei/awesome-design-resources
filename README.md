@@ -26,6 +26,7 @@ A curated list of awesome things to elevate your design skills.
 | [Copy UI](https://copyui.com/)                                                                            | We create stunning world-class components and templates, making them easily accessible to everyone                         |
 | [Grayscal.es](https://grayscal.es/components)                                                             | Beautiful, ready-to-use components built with Shadcn UI that you can copy and paste into your project                      |
 | [CodeUI](https://www.codeui.co.in/)                                                                       | Beautifully designed mobile responsive components that you can directly copy paste into your projects                      |
+| [motion-primitives](https://motion-primitives.com/)                                                       | Build beautiful animated components                                                                                        |
 
 ## Design Inspiration & Resources
 
@@ -44,16 +45,16 @@ A curated list of awesome things to elevate your design skills.
 
 ## Design-Focused Twitter Accounts
 
-| Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Ran Segall](https://x.com/ransegall)                                                                     | Helping people make a living as designers. Building Flux Academy. |
-| [Amjad](https://x.com/Amjaddsn)                                                                           | Multidisciplinary Designer & Founder.                             |
-| [shadcn](https://x.com/shadcn)                                                                            |                                                                   |
-| [Dillion Verma](https://x.com/dillionverma)                                                               |                                                                   |
-| [Chetan Verma](https://x.com/chetanvermaaa)                                                               |                                                                   |
-| [Julien Thibeaut](https://x.com/Ibelick)                                                                  |                                                                   |
-| [Namya Khan](https://x.com/namyakhann)                                                                    |                                                                   |
-| [Logan Liffick](https://x.com/logan_liffick)                                                              | Design Engineer                                                   |
+| Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Ran Segall](https://x.com/ransegall)                                                                     | Helping people make a living as designers. Building Flux Academy.       |
+| [Amjad](https://x.com/Amjaddsn)                                                                           | Multidisciplinary Designer & Founder.                                   |
+| [shadcn](https://x.com/shadcn)                                                                            | The GOAT                                                                |
+| [Dillion Verma](https://x.com/dillionverma)                                                               | Creator of Magic UI                                                     |
+| [Chetan Verma](https://x.com/chetanvermaaa)                                                               | Design & Development partner for fast-growing startups and agencies     |
+| [Julien Thibeaut](https://x.com/Ibelick)                                                                  | Design Engineer                                                         |
+| [Namya Khan](https://x.com/namyakhann)                                                                    | Building high-converting websites for founders who can’t afford to fail |
+| [Logan Liffick](https://x.com/logan_liffick)                                                              | Design Engineer                                                         |
 
 ## Design-Focused YouTube Channels
 
