@@ -81,10 +81,11 @@ A curated list of awesome things to elevate your design skills.
 
 ## Design Books & Publications
 
-| Book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;             | Description                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)      | A classic book by Don Norman that explores the principles of good design and how to create products that are user-friendly and intuitive |
-| [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879) | A comprehensive reference that covers 125 fundamental design principles, theories, and methodologies                                     |
+| Book &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                | Description                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)         | A classic book by Don Norman that explores the principles of good design and how to create products that are user-friendly and intuitive |
+| [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879)    | A comprehensive reference that covers 125 fundamental design principles, theories, and methodologies                                     |
+| [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) | Storytelling with Data teaches you the fundamentals of data visualization and how to communicate effectively with data.                  |
 
 ## Design Blog Posts
 
