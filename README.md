@@ -1,4 +1,4 @@
-# Design Resources
+# Awesome Design Resources
 
 A curated list of awesome things to elevate your design skills.
 
@@ -46,7 +46,14 @@ A curated list of awesome things to elevate your design skills.
 
 | Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                       |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [Ran Segall](https://twitter.com/ransegall)                                                               | Helping people make a living as designers. Building Flux Academy. |
+| [Ran Segall](https://x.com/ransegall)                                                                     | Helping people make a living as designers. Building Flux Academy. |
+| [Amjad](https://x.com/Amjaddsn)                                                                           | Multidisciplinary Designer & Founder.                             |
+| [shadcn](https://x.com/shadcn)                                                                            |                                                                   |
+| [Dillion Verma](https://x.com/dillionverma)                                                               |                                                                   |
+| [Chetan Verma](https://x.com/chetanvermaaa)                                                               |                                                                   |
+| [Julien Thibeaut](https://x.com/Ibelick)                                                                  |                                                                   |
+| [Namya Khan](https://x.com/namyakhann)                                                                    |                                                                   |
+| [Logan Liffick](https://x.com/logan_liffick)                                                              | Design Engineer                                                   |
 
 ## Design-Focused YouTube Channels
 
@@ -62,6 +69,7 @@ A curated list of awesome things to elevate your design skills.
 | [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                     |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign |
 | [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes           |
+| [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                     |
 
 ## Design Podcasts
 
