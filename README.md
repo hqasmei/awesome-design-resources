@@ -27,6 +27,7 @@ A curated list of awesome things to elevate your design skills.
 | [Grayscal.es](https://grayscal.es/components)                                                             | Beautiful, ready-to-use components built with Shadcn UI that you can copy and paste into your project                      |
 | [CodeUI](https://www.codeui.co.in/)                                                                       | Beautifully designed mobile responsive components that you can directly copy paste into your projects                      |
 | [motion-primitives](https://motion-primitives.com/)                                                       | Build beautiful animated components                                                                                        |
+| [Luxe](https://luxe.guhrodrigues.com/)                                                                    | Library of components copy and paste to illuminate your applications with elegance and sophistication.                     |
 
 ## Design Inspiration & Resources
 
@@ -43,6 +44,8 @@ A curated list of awesome things to elevate your design skills.
 | [One Page Love](https://onepagelove.com/)                                                                 | Curation of 8445 Single Page websites                                                       |
 | [Framerize](https://framerize.co/)                                                                        | Discover beautifully designed Framer components                                             |
 | [GreatFrontEnd](https://www.greatfrontend.com/projects)                                                   | A platform to build high quality project challenges with beautiful & modular designs        |
+| [Vercel Design](https://vercel.com/design)                                                                | Vercel Brand Features & Products                                                            |
+
 ## Design-Focused Twitter Accounts
 
 | Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
@@ -55,6 +58,9 @@ A curated list of awesome things to elevate your design skills.
 | [Julien Thibeaut](https://x.com/Ibelick)                                                                  | Design Engineer                                                         |
 | [Namya Khan](https://x.com/namyakhann)                                                                    | Building high-converting websites for founders who can’t afford to fail |
 | [Logan Liffick](https://x.com/logan_liffick)                                                              | Design Engineer                                                         |
+| [Emil Kowalski](https://x.com/emilkowalski_)                                                              | Design Engineer                                                         |
+| [Nanda](https://x.com/nandafyi)                                                                           | Engineer at ▲, writes about computers and stuff @nan.fyi                |
+| [Glenn Hitchcock](https://x.com/glennui)                                                                  | Director of Design Engineering ▲                                        |
 
 ## Design-Focused YouTube Channels
 
@@ -71,6 +77,7 @@ A curated list of awesome things to elevate your design skills.
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign |
 | [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes           |
 | [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                     |
+| [BrandBird](https://www.brandbird.app/studio)                                                          | The powerful image editor for beautiful screenshots                                         |
 
 ## Design Podcasts
 
