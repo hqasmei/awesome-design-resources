@@ -53,6 +53,7 @@ A curated list of awesome things to elevate your design skills.
 | Channel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                            |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [DesignCourse](https://www.youtube.com/user/DesignCourse)                                                 | Learn UI/UX and CSS with my custom interactive courses |
+| [Frontend FYI](https://www.youtube.com/@frontendfyi)                                                      | Teaching you the craft in frontend                     |
 
 ## Design Tools & Software
 
