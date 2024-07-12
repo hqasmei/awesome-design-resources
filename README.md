@@ -28,6 +28,13 @@ A curated list of awesome things to elevate your design skills.
 | [CodeUI](https://www.codeui.co.in/)                                                                       | Beautifully designed mobile responsive components that you can directly copy paste into your projects                      |
 | [motion-primitives](https://motion-primitives.com/)                                                       | Build beautiful animated components                                                                                        |
 
+## AI Generated Designs Resources
+
+| Website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                        |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [v0](https://v0.dev/)                                                                                     | Generate UI with shadcn/ui from simple text prompts and images..                   |
+| [Magic Patterns](https://www.magicpatterns.com/)                                                          | Iterate on components & designs in our AI-native editor. Export to React or Figma. |
+
 ## Design Inspiration & Resources
 
 | Website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                 |
