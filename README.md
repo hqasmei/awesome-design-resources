@@ -28,6 +28,7 @@ A curated list of awesome things to elevate your design skills.
 | [CodeUI](https://www.codeui.co.in/)                                                                       | Beautifully designed mobile responsive components that you can directly copy paste into your projects                      |
 | [motion-primitives](https://motion-primitives.com/)                                                       | Build beautiful animated components                                                                                        |
 | [Luxe](https://luxe.guhrodrigues.com/)                                                                    | Library of components copy and paste to illuminate your applications with elegance and sophistication.                     |
+| [NextUI](https://nextui.org/)                                                                             | Beautiful, fast and modern React UI library.                                                                               |
 
 ## Design Inspiration & Resources
 
@@ -61,6 +62,12 @@ A curated list of awesome things to elevate your design skills.
 | [Emil Kowalski](https://x.com/emilkowalski_)                                                              | Design Engineer                                                         |
 | [Nanda](https://x.com/nandafyi)                                                                           | Engineer at ▲, writes about computers and stuff @nan.fyi                |
 | [Glenn Hitchcock](https://x.com/glennui)                                                                  | Director of Design Engineering ▲                                        |
+| [Julien Thibeaut](https://x.com/ibelick)                                                                  | Design Engineer                                                         |
+| [JohnPhamous](https://x.com/JohnPhamous)                                                                  | Lead design engineer at ▲                                               |
+| [Paco Coursey](https://x.com/pacocoursey)                                                                 | Design engineer at Linear                                               |
+| [Mariana Castilho](https://x.com/mrncst)                                                                  | Product design and code                                                 |
+| @pierredotco                                                                                              |
+| [Chan Karunamuni](https://x.com/chan_k)                                                                   | Human Interface designer at Apple                                       |
 
 ## Design-Focused YouTube Channels
 
@@ -78,6 +85,10 @@ A curated list of awesome things to elevate your design skills.
 | [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes           |
 | [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                     |
 | [BrandBird](https://www.brandbird.app/studio)                                                          | The powerful image editor for beautiful screenshots                                         |
+| [CleanShot X](https://cleanshot.com/)                                                          | Capture your Mac’s screen like a pro                               |
+| [Shots](https://shots.so/)                                                          | Create Amazing Mockups                               |
+| [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient.                           |
+
 
 ## Design Podcasts
 
@@ -99,3 +110,6 @@ A curated list of awesome things to elevate your design skills.
 | Blog Post &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                        |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [4 Rules for Intuitive UX](https://www.learnui.design/blog/4-rules-intuitive-ux.html)                       | This article outlines four essential rules for creating intuitive user experiences |
+| [ui.land - Nanda](https://ui.land/interviews/nanda)                       | An interview with Nanda, Engineer at Vercel, writes about computers and stuff @nan.fyi |
+| [Good Design](https://shud.in/posts/good-design)                       | The article addresses the evolution of good design, emphasizing that complexity does not necessarily improve the quality of a project |
+
