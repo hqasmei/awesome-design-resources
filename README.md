@@ -5,6 +5,7 @@ A curated list of awesome things to elevate your design skills.
 ## Table of Contents
 
 - [UI Component Libraries](#ui-component-libraries)
+- [AI Generated Designs Resources](#ai-generated-designs-resources)
 - [Design Inspiration & Resources](#design-inspiration--resources)
 - [Design-Focused Twitter Accounts](#design-focused-twitter-accounts)
 - [Design-Focused YouTube Channels](#design-focused-youtube-channels)
