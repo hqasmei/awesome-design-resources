@@ -42,7 +42,7 @@ A curated list of awesome things to elevate your design skills.
 | [UXArchive](https://uxarchive.com/)                                                                       | UX Archive is a collection of user experiences from real companies                          |
 | [One Page Love](https://onepagelove.com/)                                                                 | Curation of 8445 Single Page websites                                                       |
 | [Framerize](https://framerize.co/)                                                                        | Discover beautifully designed Framer components                                             |
-
+| [GreatFrontEnd](https://www.greatfrontend.com/projects)                                                   | A platform to build high quality project challenges with beautiful & modular designs        |
 ## Design-Focused Twitter Accounts
 
 | Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
