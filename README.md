@@ -30,6 +30,7 @@ A curated list of awesome things to elevate your design skills.
 | [motion-primitives](https://motion-primitives.com/)                                                       | Build beautiful animated components                                                                                        |
 | [Luxe](https://luxe.guhrodrigues.com/)                                                                    | Library of components copy and paste to illuminate your applications with elegance and sophistication                      |
 | [NextUI](https://nextui.org/)                                                                             | Beautiful, fast and modern React UI library                                                                                |
+| [Edil Ozi](https://www.edilozi.pro/)                                                                      | Component Library for Developers                                                                                           |
 
 ## AI Generated Designs Resources
 
