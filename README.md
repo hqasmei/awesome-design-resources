@@ -35,10 +35,10 @@ A curated list of awesome things to elevate your design skills.
 
 ## AI Generated Designs Resources
 
-| Website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                        |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| [v0](https://v0.dev/)                                                                                     | Generate UI with shadcn/ui from simple text prompts and images                     |
-| [Magic Patterns](https://www.magicpatterns.com/)                                                          | Iterate on components & designs in our AI-native editor. Export to React or Figma  |
+| Website &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                       |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [v0](https://v0.dev/)                                                                                     | Generate UI with shadcn/ui from simple text prompts and images                    |
+| [Magic Patterns](https://www.magicpatterns.com/)                                                          | Iterate on components & designs in our AI-native editor. Export to React or Figma |
 
 ## Design Inspiration & Resources
 
@@ -84,19 +84,22 @@ A curated list of awesome things to elevate your design skills.
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | [DesignCourse](https://www.youtube.com/user/DesignCourse)                                                 | Learn UI/UX and CSS with my custom interactive courses |
 | [Frontend FYI](https://www.youtube.com/@frontendfyi)                                                      | Teaching you the craft in frontend                     |
+| [Kevin Powell](https://www.youtube.com/@KevinPowell)                                                      | Helping you learn how to make the web, and make it look good while you're at it.  |
 
 ## Design Tools & Software
 
-| Tool &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                 |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                     |
-| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign |
-| [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes           |
-| [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                     |
-| [BrandBird](https://www.brandbird.app/studio)                                                          | The powerful image editor for beautiful screenshots                                         |
-| [CleanShot X](https://cleanshot.com/)                                                                  | Capture your Mac’s screen like a pro                                                        |
-| [Shots](https://shots.so/)                                                                             | Create Amazing Mockups                                                                      |
-| [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient                                 |
+| Tool &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                 |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                     |
+| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign                 |
+| [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes                           |
+| [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                                     |
+| [BrandBird](https://www.brandbird.app/studio)                                                          | The powerful image editor for beautiful screenshots                                                         |
+| [CleanShot X](https://cleanshot.com/)                                                                  | Capture your Mac’s screen like a pro                                                                        |
+| [Shots](https://shots.so/)                                                                             | Create Amazing Mockups                                                                                      |
+| [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient                                                 |
+| [Fffuel](https://www.fffuel.co/)                                                                       | A collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
+| [Trending Color Palettes](https://coolors.co/palettes/trending)                                                                       | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores |
 
 ## Design Podcasts
 
@@ -111,7 +114,7 @@ A curated list of awesome things to elevate your design skills.
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)         | A classic book by Don Norman that explores the principles of good design and how to create products that are user-friendly and intuitive |
 | [Universal Principles of Design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879)    | A comprehensive reference that covers 125 fundamental design principles, theories, and methodologies                                     |
-| [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) | Storytelling with Data teaches you the fundamentals of data visualization and how to communicate effectively with data                  |
+| [Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) | Storytelling with Data teaches you the fundamentals of data visualization and how to communicate effectively with data                   |
 
 ## Design Blog Posts
 
