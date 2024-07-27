@@ -77,29 +77,32 @@ A curated list of awesome things to elevate your design skills.
 | [Paco Coursey](https://x.com/pacocoursey)                                                                 | Design engineer at Linear                                               |
 | [Mariana Castilho](https://x.com/mrncst)                                                                  | Product design and code at @pierredotco                                 |
 | [Chan Karunamuni](https://x.com/chan_k)                                                                   | Human Interface designer at Apple                                       |
+| [T. Costa](https://x.com/tcosta_co)                                                                       | Designer/Cofounder of https://fey.com                                   |
 
 ## Design-Focused YouTube Channels
 
-| Channel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                            |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [DesignCourse](https://www.youtube.com/user/DesignCourse)                                                 | Learn UI/UX and CSS with my custom interactive courses |
-| [Frontend FYI](https://www.youtube.com/@frontendfyi)                                                      | Teaching you the craft in frontend                     |
-| [Kevin Powell](https://www.youtube.com/@KevinPowell)                                                      | Helping you learn how to make the web, and make it look good while you're at it.  |
+| Channel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                      |
+| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [DesignCourse](https://www.youtube.com/user/DesignCourse)                                                 | Learn UI/UX and CSS with my custom interactive courses                           |
+| [Frontend FYI](https://www.youtube.com/@frontendfyi)                                                      | Teaching you the craft in frontend                                               |
+| [Kevin Powell](https://www.youtube.com/@KevinPowell)                                                      | Helping you learn how to make the web, and make it look good while you're at it. |
+| [Walt De Jesus](https://www.youtube.com/@waltdejesus)                                                     | I'll make you fall in love with UX/UI and Product Design.                        |
 
 ## Design Tools & Software
 
-| Tool &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                 |
-| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                     |
-| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign                 |
-| [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes                           |
-| [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                                     |
-| [BrandBird](https://www.brandbird.app/studio)                                                          | The powerful image editor for beautiful screenshots                                                         |
-| [CleanShot X](https://cleanshot.com/)                                                                  | Capture your Mac’s screen like a pro                                                                        |
-| [Shots](https://shots.so/)                                                                             | Create Amazing Mockups                                                                                      |
-| [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient                                                 |
-| [Fffuel](https://www.fffuel.co/)                                                                       | A collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds |
-| [Trending Color Palettes](https://coolors.co/palettes/trending)                                                                       | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores |
+| Tool &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                                       |
+| [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign                                   |
+| [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes                                             |
+| [smashing.tools](https://smashing.tools/design-kit)                                                    | A collection of design tools and resources for developers and designers                                                       |
+| [BrandBird](https://www.brandbird.app/studio)                                                          | The powerful image editor for beautiful screenshots                                                                           |
+| [CleanShot X](https://cleanshot.com/)                                                                  | Capture your Mac’s screen like a pro                                                                                          |
+| [Shots](https://shots.so/)                                                                             | Create Amazing Mockups                                                                                                        |
+| [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient                                                                   |
+| [Fffuel](https://www.fffuel.co/)                                                                       | A collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds                   |
+| [Trending Color Palettes](https://coolors.co/palettes/trending)                                        | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores                                                  |
+| [Lordicon](https://lordicon.com/)                                                                      | Lordicon is a growing library full of carefully crafted, high-quality static and animated icons you won’t find anywhere else. |
 
 ## Design Podcasts
 
@@ -118,8 +121,9 @@ A curated list of awesome things to elevate your design skills.
 
 ## Design Blog Posts
 
-| Blog Post &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [4 Rules for Intuitive UX](https://www.learnui.design/blog/4-rules-intuitive-ux.html)                       | This article outlines four essential rules for creating intuitive user experiences                                                    |
-| [ui.land - Nanda](https://ui.land/interviews/nanda)                                                         | An interview with Nanda, Engineer at Vercel, writes about computers and stuff @nan.fyi                                                |
-| [Good Design](https://shud.in/posts/good-design)                                                            | The article addresses the evolution of good design, emphasizing that complexity does not necessarily improve the quality of a project |
+| Blog Post &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [4 Rules for Intuitive UX](https://www.learnui.design/blog/4-rules-intuitive-ux.html)                       | This article outlines four essential rules for creating intuitive user experiences                                                                                                    |
+| [ui.land - Nanda](https://ui.land/interviews/nanda)                                                         | An interview with Nanda, Engineer at Vercel, writes about computers and stuff @nan.fyi                                                                                                |
+| [Good Design](https://shud.in/posts/good-design)                                                            | The article addresses the evolution of good design, emphasizing that complexity does not necessarily improve the quality of a project                                                 |
+| [Creating New, Not More](https://www.wking.dev/logs/creating-new-not-more)                                  | The author shares his strategy of studying great designers and exploring different visual references to develop a "creative muscle" that allows him to create new patterns and ideas. |
