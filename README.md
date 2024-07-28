@@ -32,6 +32,7 @@ A curated list of awesome things to elevate your design skills.
 | [NextUI](https://nextui.org/)                                                                             | Beautiful, fast and modern React UI library                                                                                |
 | [Edil Ozi](https://www.edilozi.pro/)                                                                      | Component Library for Developers                                                                                           |
 | [LunarUI](https://lunarui.dev/)                                                                           | Lunar UI is a collection of interactive Tailwind CSS components built for React and Vue.js.                                |
+| [DynaUI](https://www.dynaui.design/)                                |                                     | Animated UI Library designed for Developers       |
 
 ## AI Generated Designs Resources
 
