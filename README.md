@@ -34,6 +34,7 @@ A curated list of awesome things to elevate your design skills.
 | [LunarUI](https://lunarui.dev/)                                                                           | Lunar UI is a collection of interactive Tailwind CSS components built for React and Vue.js.                                |
 | [DynaUI](https://www.dynaui.design/)                                                                      | Animated UI Library designed for Developers                                                                                |
 | [Just D.](https://getjustd.com/)                                                                          | A chill set of React components, built on top of React Aria Components, all about keeping the web accessible.              |
+| [Tailus UI React](https://ui.tailus.io/)                                                                  | Highly customizable React components for crafting modern, personalized websites and applications.                          |
 
 ## AI Generated Designs Resources
 
