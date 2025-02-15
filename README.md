@@ -8,6 +8,7 @@ A curated list of awesome things to elevate your design skills.
 - [AI Generated Designs Resources](#ai-generated-designs-resources)
 - [Design Inspiration & Resources](#design-inspiration--resources)
 - [Design-Focused Twitter Accounts](#design-focused-twitter-accounts)
+- [Design Courses](#design-courses)
 - [Design-Focused YouTube Channels](#design-focused-youtube-channels)
 - [Design Tools & Software](#design-tools--software)
 - [Design Podcasts](#design-podcasts)
@@ -82,14 +83,34 @@ A curated list of awesome things to elevate your design skills.
 | [Chan Karunamuni](https://x.com/chan_k)                                                                   | Human Interface designer at Apple                                       |
 | [T. Costa](https://x.com/tcosta_co)                                                                       | Designer/Cofounder of https://fey.com                                   |
 
-## Design-Focused YouTube Channels
+## Design-Focused Twitter Accounts
 
-| Channel &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                      |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [DesignCourse](https://www.youtube.com/user/DesignCourse)                                                 | Learn UI/UX and CSS with my custom interactive courses                           |
-| [Frontend FYI](https://www.youtube.com/@frontendfyi)                                                      | Teaching you the craft in frontend                                               |
-| [Kevin Powell](https://www.youtube.com/@KevinPowell)                                                      | Helping you learn how to make the web, and make it look good while you're at it. |
-| [Walt De Jesus](https://www.youtube.com/@waltdejesus)                                                     | I'll make you fall in love with UX/UI and Product Design.                        |
+| Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Ran Segall](https://x.com/ransegall)                                                                     | Helping people make a living as designers. Building Flux Academy        |
+| [Amjad](https://x.com/Amjaddsn)                                                                           | Multidisciplinary Designer & Founder                                    |
+| [shadcn](https://x.com/shadcn)                                                                            | The GOAT                                                                |
+| [Dillion Verma](https://x.com/dillionverma)                                                               | Creator of Magic UI                                                     |
+| [Chetan Verma](https://x.com/chetanvermaaa)                                                               | Design & Development partner for fast-growing startups and agencies     |
+| [Julien Thibeaut](https://x.com/Ibelick)                                                                  | Design Engineer                                                         |
+| [Namya Khan](https://x.com/namyakhann)                                                                    | Building high-converting websites for founders who can’t afford to fail |
+| [Logan Liffick](https://x.com/logan_liffick)                                                              | Design Engineer                                                         |
+| [Emil Kowalski](https://x.com/emilkowalski_)                                                              | Design Engineer                                                         |
+| [Nanda](https://x.com/nandafyi)                                                                           | Engineer at ▲, writes about computers and stuff @nan.fyi                |
+| [Glenn Hitchcock](https://x.com/glennui)                                                                  | Director of Design Engineering ▲                                        |
+| [Julien Thibeaut](https://x.com/ibelick)                                                                  | Design Engineer                                                         |
+| [JohnPhamous](https://x.com/JohnPhamous)                                                                  | Lead design engineer at ▲                                               |
+| [Paco Coursey](https://x.com/pacocoursey)                                                                 | Design engineer at Linear                                               |
+| [Mariana Castilho](https://x.com/mrncst)                                                                  | Product design and code at @pierredotco                                 |
+| [Chan Karunamuni](https://x.com/chan_k)                                                                   | Human Interface designer at Apple                                       |
+| [T. Costa](https://x.com/tcosta_co)                                                                       | Designer/Cofounder of https://fey.com                                   |
+
+## Design Courses
+
+| Courses &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                         |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [Animations on the web](https://animations.dev/)                                                          | The interactive learning experience that teaches you how to build animations on the web.                            |
+| [Interactive SVG](https://www.svg-animations.how/)                                                        | A text-based mini-course on making whimsical, playful SVG animations by [Nanda Syahrasyad](https://x.com/nandafyi). |
 
 ## Design Tools & Software
 
