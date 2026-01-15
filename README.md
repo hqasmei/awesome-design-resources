@@ -81,29 +81,7 @@ A curated list of awesome things to elevate your design skills.
 | [Paco Coursey](https://x.com/pacocoursey)                                                                 | Design engineer at Linear                                               |
 | [Mariana Castilho](https://x.com/mrncst)                                                                  | Product design and code at @pierredotco                                 |
 | [Chan Karunamuni](https://x.com/chan_k)                                                                   | Human Interface designer at Apple                                       |
-| [T. Costa](https://x.com/tcosta_co)                                                                       | Designer/Cofounder of https://fey.com                                   |
-
-## Design-Focused Twitter Accounts
-
-| Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
-| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [Ran Segall](https://x.com/ransegall)                                                                     | Helping people make a living as designers. Building Flux Academy        |
-| [Amjad](https://x.com/Amjaddsn)                                                                           | Multidisciplinary Designer & Founder                                    |
-| [shadcn](https://x.com/shadcn)                                                                            | The GOAT                                                                |
-| [Dillion Verma](https://x.com/dillionverma)                                                               | Creator of Magic UI                                                     |
-| [Chetan Verma](https://x.com/chetanvermaaa)                                                               | Design & Development partner for fast-growing startups and agencies     |
-| [Julien Thibeaut](https://x.com/Ibelick)                                                                  | Design Engineer                                                         |
-| [Namya Khan](https://x.com/namyakhann)                                                                    | Building high-converting websites for founders who can’t afford to fail |
-| [Logan Liffick](https://x.com/logan_liffick)                                                              | Design Engineer                                                         |
-| [Emil Kowalski](https://x.com/emilkowalski_)                                                              | Design Engineer                                                         |
-| [Nanda](https://x.com/nandafyi)                                                                           | Engineer at ▲, writes about computers and stuff @nan.fyi                |
-| [Glenn Hitchcock](https://x.com/glennui)                                                                  | Director of Design Engineering ▲                                        |
-| [Julien Thibeaut](https://x.com/ibelick)                                                                  | Design Engineer                                                         |
-| [JohnPhamous](https://x.com/JohnPhamous)                                                                  | Lead design engineer at ▲                                               |
-| [Paco Coursey](https://x.com/pacocoursey)                                                                 | Design engineer at Linear                                               |
-| [Mariana Castilho](https://x.com/mrncst)                                                                  | Product design and code at @pierredotco                                 |
-| [Chan Karunamuni](https://x.com/chan_k)                                                                   | Human Interface designer at Apple                                       |
-| [T. Costa](https://x.com/tcosta_co)                                                                       | Designer/Cofounder of https://fey.com                                   |
+| [T. Costa](https://x.com/tcosta_co)                                                                       | Designer/Cofounder of Fey                               |
 
 ## Design Courses
 
@@ -111,6 +89,7 @@ A curated list of awesome things to elevate your design skills.
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [Animations on the web](https://animations.dev/)                                                          | The interactive learning experience that teaches you how to build animations on the web.                            |
 | [Interactive SVG](https://www.svg-animations.how/)                                                        | A text-based mini-course on making whimsical, playful SVG animations by [Nanda Syahrasyad](https://x.com/nandafyi). |
+| [Devouring Details](https://devouringdetails.com/)                                                        | A design course focused on mastering the details of design.                                                         |
 
 ## Design Tools & Software
 
@@ -127,6 +106,7 @@ A curated list of awesome things to elevate your design skills.
 | [Fffuel](https://www.fffuel.co/)                                                                       | A collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds                   |
 | [Trending Color Palettes](https://coolors.co/palettes/trending)                                        | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores                                                  |
 | [Lordicon](https://lordicon.com/)                                                                      | Lordicon is a growing library full of carefully crafted, high-quality static and animated icons you won’t find anywhere else. |
+| [Jitter](https://jitter.video) | A fast and simple motion design tool on the web |
 
 ## Design Podcasts
 
@@ -151,3 +131,4 @@ A curated list of awesome things to elevate your design skills.
 | [ui.land - Nanda](https://ui.land/interviews/nanda)                                                         | An interview with Nanda, Engineer at Vercel, writes about computers and stuff @nan.fyi                                                                                                |
 | [Good Design](https://shud.in/posts/good-design)                                                            | The article addresses the evolution of good design, emphasizing that complexity does not necessarily improve the quality of a project                                                 |
 | [Creating New, Not More](https://www.wking.dev/logs/creating-new-not-more)                                  | The author shares his strategy of studying great designers and exploring different visual references to develop a "creative muscle" that allows him to create new patterns and ideas. |
+| [10 rules for crafting products that stand out](https://www.figma.com/blog/karri-saarinens-10-rules-for-crafting-products-that-stand-out/?utm_source=dive-club.beehiiv.com&utm_medium=newsletter&utm_campaign=crafty-craft-craft&_bhlid=87f01e4d6138026c2ec67dbbd8f37e40c2a7f79d#_1-commit-to-quality-at-the-leadership-level) | Princípios para criar produtos marcantes com foco em qualidade, craft e decisões conscientes. |
