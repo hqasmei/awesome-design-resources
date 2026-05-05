@@ -107,6 +107,7 @@ A curated list of awesome things to elevate your design skills.
 | [Trending Color Palettes](https://coolors.co/palettes/trending)                                        | Crie a paleta perfeita ou inspire-se com milhares de belos esquemas de cores                                                  |
 | [Lordicon](https://lordicon.com/)                                                                      | Lordicon is a growing library full of carefully crafted, high-quality static and animated icons you won’t find anywhere else. |
 | [Jitter](https://jitter.video) | A fast and simple motion design tool on the web |
+| [TinyTools](https://tinytools-smoky.vercel.app/)                                                       | Free browser-based design utilities — color palette, favicon, OG image generator, AI background remover (runs locally). No signup, open source.                |
 
 ## Design Podcasts
 
