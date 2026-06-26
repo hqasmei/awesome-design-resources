@@ -60,6 +60,7 @@ A curated list of awesome things to elevate your design skills.
 | [Framerize](https://framerize.co/)                                                                        | Discover beautifully designed Framer components                                             |
 | [GreatFrontEnd](https://www.greatfrontend.com/projects)                                                   | A platform to build high quality project challenges with beautiful & modular designs        |
 | [Vercel Design](https://vercel.com/design)                                                                | Vercel Brand Features & Products                                                            |
+| [Product Onboarding](https://productonboarding.com)                                                       | A free, curated gallery of user onboarding examples from leading SaaS products, by pattern and by company |
 
 ## Design-Focused Twitter Accounts
 
