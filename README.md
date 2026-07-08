@@ -111,6 +111,7 @@ A curated list of awesome things to elevate your design skills.
 | [Lordicon](https://lordicon.com/)                                                                      | Lordicon is a growing library full of carefully crafted, high-quality static and animated icons you won’t find anywhere else. |
 | [Jitter](https://jitter.video) | A fast and simple motion design tool on the web |
 | [TinyTools](https://tinytools-smoky.vercel.app/)                                                       | Free browser-based design utilities — color palette, favicon, OG image generator, AI background remover (runs locally). No signup, open source.                |
+| [Icons8](https://icons8.com/icons) | 1,500,000+ icons across 130+ visually consistent styles, available as SVG and PNG |
 
 ## Design Podcasts
 
