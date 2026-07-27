@@ -113,6 +113,7 @@ A curated list of awesome things to elevate your design skills.
 | [TinyTools](https://tinytools-smoky.vercel.app/)                                                       | Free browser-based design utilities — color palette, favicon, OG image generator, AI background remover (runs locally). No signup, open source.                |
 | [Icons8](https://icons8.com/icons) | 1,500,000+ icons across 130+ visually consistent styles, available as SVG and PNG |
 | [ToolBox](https://www.toolbox-kit.com)                                                                 | Free browser-based design utilities: color picker & converter, gradient generator, image compressor, favicon & SVG tools. No signup; client-side.             |
+| [Toolio](https://toolio.pongvn.com)                                                                    | Free browser-based design utilities: color palette & CSS gradient generators, box-shadow and border-radius builders, background remover, image compressor, favicon & SVG optimizer. No signup; most tools run client-side. |
 
 ## Design Podcasts
 
