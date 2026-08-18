@@ -115,6 +115,7 @@ A curated list of awesome things to elevate your design skills.
 | [Icons8](https://icons8.com/icons) | 1,500,000+ icons across 130+ visually consistent styles, available as SVG and PNG |
 | [ToolBox](https://www.toolbox-kit.com)                                                                 | Free browser-based design utilities: color picker & converter, gradient generator, image compressor, favicon & SVG tools. No signup; client-side.             |
 | [Toolio](https://toolio.pongvn.com)                                                                    | Free browser-based design utilities: color palette & CSS gradient generators, box-shadow and border-radius builders, background remover, image compressor, favicon & SVG optimizer. No signup; most tools run client-side. |
+| [All Tools Verse](https://alltoolsverse.com/)                                                          | Free browser-based image and color utilities within a broader collection of 1,000+ tools for design, development, files, text, and data conversion. No signup required. |
 
 ## Design Podcasts
 
