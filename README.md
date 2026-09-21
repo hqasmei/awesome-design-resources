@@ -2,6 +2,8 @@
 
 A curated list of awesome things to elevate your design skills.
 
+Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Table of Contents
 
 - [UI Component Libraries](#ui-component-libraries)
