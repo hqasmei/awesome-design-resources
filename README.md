@@ -127,6 +127,8 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [All Tools Verse](https://alltoolsverse.com/)                                                          | Free browser-based image and color utilities within a broader collection of 1,000+ tools for design, development, files, text, and data conversion. No signup required. |
 | [ArtboardLab](https://artboardlab.com/tools/ai-viewer/) | Open Adobe Illustrator .ai files without Illustrator and export artboards to SVG, PNG, or PDF. Runs in the browser; the file is never uploaded. No signup. |
 
+| [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) | Free browser-based HEIC to PNG converter, files never uploaded. |
+
 ## Design Podcasts
 
 | Podcast &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                          |
