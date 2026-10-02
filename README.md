@@ -67,6 +67,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Vercel Design](https://vercel.com/design)                                                                | Vercel Brand Features & Products                                                            |
 | [Product Onboarding](https://productonboarding.com)                                                       | A free, curated gallery of user onboarding examples from leading SaaS products, by pattern and by company |
 | [Kombai Gallery](https://kombai.com/gallery/web/)                                                         | A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products |
+| [Scrollhaus](https://scrollhaus.ai/) | Animated, scroll-driven website templates with live previews and editable source, with a free selection of templates, backgrounds and effects. |
 
 ## Design-Focused Twitter Accounts
 
