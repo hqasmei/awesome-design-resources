@@ -46,6 +46,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [v0](https://v0.dev/)                                                                                     | Generate UI with shadcn/ui from simple text prompts and images                    |
 | [Magic Patterns](https://www.magicpatterns.com/)                                                          | Iterate on components & designs in our AI-native editor. Export to React or Figma |
+| [Tesla Wrap Generator](https://teslawrapgenerator.com/)                                                   | Generate Tesla Paint Shop wraps from a prompt or photo, preview in 3D             |
 
 ## Design Inspiration & Resources
 
