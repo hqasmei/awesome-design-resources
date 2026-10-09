@@ -104,6 +104,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Free Image Merger](https://freeimagemerger.com/) | Merge 2–20 images side by side, in a grid, or freestyle — 100% free, browser-based, no uploads. |
 | [ImgSplit](https://imgsplit.com/) | In-browser image toolkit for splitting, grids, compression, watermarks, and local background removal — no uploads. |
+| [Stunna Photo Tools](https://stunna-app.com/tools) | Free browser photo filters, photo booth frames and a photo strip maker with local image processing, no account and watermark-free exports. |
 | [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                                       |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign                                   |
 | [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes                                             |
