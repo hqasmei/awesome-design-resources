@@ -126,6 +126,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Toolio](https://toolio.pongvn.com)                                                                    | Free browser-based design utilities: color palette & CSS gradient generators, box-shadow and border-radius builders, background remover, image compressor, favicon & SVG optimizer. No signup; most tools run client-side. |
 | [All Tools Verse](https://alltoolsverse.com/)                                                          | Free browser-based image and color utilities within a broader collection of 1,000+ tools for design, development, files, text, and data conversion. No signup required. |
 | [ArtboardLab](https://artboardlab.com/tools/ai-viewer/) | Open Adobe Illustrator .ai files without Illustrator and export artboards to SVG, PNG, or PDF. Runs in the browser; the file is never uploaded. No signup. |
+| [TranslateMyImage](https://translatemyimage.com/) | Translates the text inside an image (mockup, banner, screenshot) into another language and returns the same image with the layout kept. Free tier of 3 images a month. |
 
 ## Design Podcasts
 
