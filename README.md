@@ -67,6 +67,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Vercel Design](https://vercel.com/design)                                                                | Vercel Brand Features & Products                                                            |
 | [Product Onboarding](https://productonboarding.com)                                                       | A free, curated gallery of user onboarding examples from leading SaaS products, by pattern and by company |
 | [Kombai Gallery](https://kombai.com/gallery/web/)                                                         | A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products |
+| [The Design Tools](https://thedesigntools.site/)                                                           | A directory of design tools across multiple disciplines; listings describe their strengths and drawbacks. |
 
 ## Design-Focused Twitter Accounts
 
