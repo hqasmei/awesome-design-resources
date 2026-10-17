@@ -104,7 +104,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Free Image Merger](https://freeimagemerger.com/) | Merge 2–20 images side by side, in a grid, or freestyle — 100% free, browser-based, no uploads. |
 | [ImgSplit](https://imgsplit.com/) | In-browser image toolkit for splitting, grids, compression, watermarks, and local background removal — no uploads. |
-| [pic2svg](https://pic2svg.com/) | Vector-trace design tool: turn PNG/JPG artwork, logos, and icons into editable SVG paths with a live before/after preview; tracing and preview are free, downloading files is the Pro tier (hosted converter — images upload for processing). |
+| [Pic2SVG](https://pic2svg.com/) | Trace PNG, JPG, screenshots, and logos into editable SVG paths; SVG tracing, preview, and download are free without an account. |
 | [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                                       |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign                                   |
 | [Canva](https://www.canva.com/)                                                                        | A versatile design tool that makes it easy to create visuals for various purposes                                             |
