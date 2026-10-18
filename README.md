@@ -68,6 +68,8 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Product Onboarding](https://productonboarding.com)                                                       | A free, curated gallery of user onboarding examples from leading SaaS products, by pattern and by company |
 | [Kombai Gallery](https://kombai.com/gallery/web/)                                                         | A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products |
 
+| [SFXMint Soft UI](https://sfxmint.com/sets/ui-soft) | Free CC0 sound effects for interface feedback, with browser previews and individual downloads without signup. |
+
 ## Design-Focused Twitter Accounts
 
 | Account &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                             |
