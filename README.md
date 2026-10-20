@@ -46,6 +46,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [v0](https://v0.dev/)                                                                                     | Generate UI with shadcn/ui from simple text prompts and images                    |
 | [Magic Patterns](https://www.magicpatterns.com/)                                                          | Iterate on components & designs in our AI-native editor. Export to React or Figma |
+| [Seedream 5.5](https://seedream5-5.net/) | Browser-based AI image generator and editor for text-to-image and prompt-based edits, with daily free credits |
 
 ## Design Inspiration & Resources
 
