@@ -58,6 +58,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Mobbin](https://www.mobbin.design/)                                                                      | A library of the latest mobile design patterns, hand-picked from the best apps              |
 | [Flownato](https://www.flownato.com/)                                                                     | Real Android app screens, user flows and UI patterns for UI/UX research, focused on Indian apps|
 | [PageFlows](https://pageflows.com/)                                                                       | Design better user flows by learning from proven products                                   |
+| [APPLORE](https://applore.app/)                                                                           | A library of 18,000+ real App Store and Google Play icons you can browse by color and style |
 | [CollectUI](https://collectui.com/)                                                                       | Daily UI inspiration from daily ui challenges and beyond                                    |
 | [UXArchive](https://uxarchive.com/)                                                                       | UX Archive is a collection of user experiences from real companies                          |
 | [UIZZE](https://github.com/uizze/uizze)                                                                    | Design reference service for coding agents. The free MIT anti-ui-slop Skill defines product-specific design contracts, required states, and a hard finish gate. Full UIZZE offers live search across 800,000+ real web and iOS screens. |
@@ -68,6 +69,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Product Onboarding](https://productonboarding.com)                                                       | A free, curated gallery of user onboarding examples from leading SaaS products, by pattern and by company |
 | [Kombai Gallery](https://kombai.com/gallery/web/)                                                         | A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products |
 | [Free for Creators](https://skyzhao1223.github.io/free-for-creators/)                                             | License-verified directory of 158 free assets (photos, icons, fonts, mockups, footage, music, 3D) with attribution and monetization rules tagged per entry |
+| [Scrollhaus](https://scrollhaus.ai/) | Animated, scroll-driven website templates with live previews and editable source, with a free selection of templates, backgrounds and effects. |
 
 ## Design-Focused Twitter Accounts
 
@@ -127,6 +129,9 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Toolio](https://toolio.pongvn.com)                                                                    | Free browser-based design utilities: color palette & CSS gradient generators, box-shadow and border-radius builders, background remover, image compressor, favicon & SVG optimizer. No signup; most tools run client-side. |
 | [All Tools Verse](https://alltoolsverse.com/)                                                          | Free browser-based image and color utilities within a broader collection of 1,000+ tools for design, development, files, text, and data conversion. No signup required. |
 | [ArtboardLab](https://artboardlab.com/tools/ai-viewer/) | Open Adobe Illustrator .ai files without Illustrator and export artboards to SVG, PNG, or PDF. Runs in the browser; the file is never uploaded. No signup. |
+| [ToolKnit CSV Chart Maker](https://toolknit.com/tools/chart-maker.html) | Turn CSV data into styled charts in the browser, with editable labels, monochrome themes and PNG or interactive HTML export. |
+| [Responsive Tool](https://responsivetool.com/) | Preview a URL across real device viewport sizes side by side — phone, tablet, desktop, or a custom width — to check a layout before shipping it. No signup. |
+| [SVGicons](https://svgicons.com/) | Search and copy SVG icons from open-source icon sets. |
 
 ## Design Podcasts
 
