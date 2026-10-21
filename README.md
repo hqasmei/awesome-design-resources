@@ -58,6 +58,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Mobbin](https://www.mobbin.design/)                                                                      | A library of the latest mobile design patterns, hand-picked from the best apps              |
 | [Flownato](https://www.flownato.com/)                                                                     | Real Android app screens, user flows and UI patterns for UI/UX research, focused on Indian apps|
 | [PageFlows](https://pageflows.com/)                                                                       | Design better user flows by learning from proven products                                   |
+| [APPLORE](https://applore.app/)                                                                           | A library of 18,000+ real App Store and Google Play icons you can browse by color and style |
 | [CollectUI](https://collectui.com/)                                                                       | Daily UI inspiration from daily ui challenges and beyond                                    |
 | [UXArchive](https://uxarchive.com/)                                                                       | UX Archive is a collection of user experiences from real companies                          |
 | [UIZZE](https://github.com/uizze/uizze)                                                                    | Design reference service for coding agents. The free MIT anti-ui-slop Skill defines product-specific design contracts, required states, and a hard finish gate. Full UIZZE offers live search across 800,000+ real web and iOS screens. |
@@ -127,6 +128,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [All Tools Verse](https://alltoolsverse.com/)                                                          | Free browser-based image and color utilities within a broader collection of 1,000+ tools for design, development, files, text, and data conversion. No signup required. |
 | [ArtboardLab](https://artboardlab.com/tools/ai-viewer/) | Open Adobe Illustrator .ai files without Illustrator and export artboards to SVG, PNG, or PDF. Runs in the browser; the file is never uploaded. No signup. |
 | [Responsive Tool](https://responsivetool.com/) | Preview a URL across real device viewport sizes side by side — phone, tablet, desktop, or a custom width — to check a layout before shipping it. No signup. |
+| [SVGicons](https://svgicons.com/) | Search and copy SVG icons from open-source icon sets. |
 
 ## Design Podcasts
 
