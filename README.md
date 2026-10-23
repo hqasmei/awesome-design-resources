@@ -117,6 +117,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Shots](https://shots.so/)                                                                             | Create Amazing Mockups                                                                                                        |
 | [CustomGradient](https://customgradient.com/)                                                          | A web app that let's you customize your background gradient                                                                   |
 | [Fffuel](https://www.fffuel.co/)                                                                       | A collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds                   |
+| [Gradients Studio](https://www.gradients.studio/) | Grainy mesh gradient backgrounds with pixel and dither finishes, exported at 4K with no watermark. First download needs no account |
 | [Rhapsody Color](https://rhapsodycolor.com/) | Explore any color with perceptually-even tonal ramps, WCAG contrast checks, and print-safety |
 | [Nutilz Clip-path Generator](https://nutilz.com/clip-path-generator)                                   | Free browser-based CSS clip-path generator — drag handles to create polygon shapes, copy production-ready CSS. No signup      |
 | [Tessera](https://tgajwani4-a11y.github.io/tessera-patterns-site/) | Seamless, tileable generative pattern packs (PNG, 3000x3000px) for packaging, fabric, and web backgrounds |
