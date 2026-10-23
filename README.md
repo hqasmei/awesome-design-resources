@@ -70,6 +70,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [Kombai Gallery](https://kombai.com/gallery/web/)                                                         | A free, growing library of web and mobile UI inspiration for designers and design engineers to explore, adapt, and remix into real products |
 | [Free for Creators](https://skyzhao1223.github.io/free-for-creators/)                                             | License-verified directory of 158 free assets (photos, icons, fonts, mockups, footage, music, 3D) with attribution and monetization rules tagged per entry |
 | [Scrollhaus](https://scrollhaus.ai/) | Animated, scroll-driven website templates with live previews and editable source, with a free selection of templates, backgrounds and effects. |
+| [Design Details](https://designdetails.io/) | A free, hand-picked library of real websites captured as full pages with their motion, browsable by section, type and color |
 
 ## Design-Focused Twitter Accounts
 
