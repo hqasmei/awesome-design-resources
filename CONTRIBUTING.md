@@ -16,6 +16,9 @@ Thanks for helping make this list better! Here's how to add a resource.
 
 4. Keep the description short, plain, and factual. No marketing copy.
 5. If you built the resource, say so in the PR description.
+6. One submission per contributor per month.
+7. If you are the creator, the site must have been publicly live for at least 3 months.
+8. If an AI agent wrote or submitted the PR, say so. Undisclosed agent submissions will be closed.
 
 ## What gets accepted
 
@@ -29,6 +32,8 @@ A resource is a good fit if it:
 
 ## What gets declined
 
+- Brand new accounts or sites, and launch-week self-promotion
+- Submissions from AI agents that don't disclose it
 - Small sample packs that mainly promote a paid product
 - Developer APIs or niche tools that aren't design resources
 - Entries that duplicate something already on the list
