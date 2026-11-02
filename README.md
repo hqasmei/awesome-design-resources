@@ -134,6 +134,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [ToolKnit CSV Chart Maker](https://toolknit.com/tools/chart-maker.html) | Turn CSV data into styled charts in the browser, with editable labels, monochrome themes and PNG or interactive HTML export. |
 | [Responsive Tool](https://responsivetool.com/) | Preview a URL across real device viewport sizes side by side — phone, tablet, desktop, or a custom width — to check a layout before shipping it. No signup. |
 | [SVGicons](https://svgicons.com/) | Search and copy SVG icons from open-source icon sets. |
+| [CoverNice](https://covernice.com/) | Book cover studio for Amazon KDP: computes spine width from page count and paper stock, then exports a 300 dpi full-wrap paperback PDF plus a 1600x2560 eBook cover. |
 
 ## Design Podcasts
 
