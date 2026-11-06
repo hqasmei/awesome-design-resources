@@ -107,6 +107,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | Tool &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
 | [Free Image Merger](https://freeimagemerger.com/) | Merge 2–20 images side by side, in a grid, or freestyle — 100% free, browser-based, no uploads. |
+| [Pic2Vector](https://pic2vector.com/) | Free PNG/JPG/WebP to layered SVG converter in the browser. Classical tracing (vtracer) via WebAssembly; images never uploaded; no account. |
 | [ImgSplit](https://imgsplit.com/) | In-browser image toolkit for splitting, grids, compression, watermarks, and local background removal — no uploads. |
 | [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                                       |
 | [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)                                       | A suite of design and creative applications, including Photoshop, Illustrator, and InDesign                                   |
