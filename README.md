@@ -106,6 +106,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 
 | Tool &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Calculation Hub Luminance & Brightness](https://calculation-hub.com/colors/luminance-brightness) | Compare relative luminance, HSP brightness, luma, and two-color contrast when reviewing interface colors. |
 | [Free Image Merger](https://freeimagemerger.com/) | Merge 2–20 images side by side, in a grid, or freestyle — 100% free, browser-based, no uploads. |
 | [ImgSplit](https://imgsplit.com/) | In-browser image toolkit for splitting, grids, compression, watermarks, and local background removal — no uploads. |
 | [Figma](https://www.figma.com/)                                                                        | A collaborative design tool for creating user interfaces and prototypes                                                       |
