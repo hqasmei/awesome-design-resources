@@ -134,6 +134,7 @@ Want to add a resource? Open a PR (not an issue). See [CONTRIBUTING.md](CONTRIBU
 | [ToolKnit CSV Chart Maker](https://toolknit.com/tools/chart-maker.html) | Turn CSV data into styled charts in the browser, with editable labels, monochrome themes and PNG or interactive HTML export. |
 | [Responsive Tool](https://responsivetool.com/) | Preview a URL across real device viewport sizes side by side — phone, tablet, desktop, or a custom width — to check a layout before shipping it. No signup. |
 | [SVGicons](https://svgicons.com/) | Search and copy SVG icons from open-source icon sets. |
+| [DESIGN:OS](https://github.com/jangtrinh/design-os) | Free design CLI for AI coding agents: you describe a UI in plain words, it outputs web or SwiftUI code and checks spacing, type scale and contrast. |
 
 ## Design Podcasts
 
