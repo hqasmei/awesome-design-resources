@@ -1,0 +1,111 @@
+name: PR check
+
+# pull_request_target lets this job comment, label, and close PRs from forks.
+# It never checks out or runs the PR's code; it only reads the diff through the API.
+on:
+  pull_request_target:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login != github.repository_owner
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          sparse-checkout: .github/blocklist.txt
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const pr = context.payload.pull_request;
+            const { owner, repo } = context.repo;
+            const author = pr.user.login;
+            const body = pr.body || '';
+
+            const blocklist = fs.readFileSync('.github/blocklist.txt', 'utf8')
+              .split('\n').map(l => l.trim().toLowerCase())
+              .filter(l => l && !l.startsWith('#'));
+            const blockedUsers = blocklist.filter(l => l.startsWith('@')).map(l => l.slice(1));
+            const blockedDomains = blocklist.filter(l => !l.startsWith('@'));
+
+            const files = await github.paginate(github.rest.pulls.listFiles,
+              { owner, repo, pull_number: pr.number, per_page: 100 });
+
+            const closeReasons = [];   // close automatically
+            const fixReasons = [];     // label and ask for a fix
+
+            // 1. Only README.md may change
+            const otherFiles = files.filter(f => f.filename !== 'README.md').map(f => f.filename);
+            if (otherFiles.length) closeReasons.push(`changes files other than README.md (${otherFiles.join(', ')})`);
+
+            // 2. Exactly one added table row, nothing removed
+            const readme = files.find(f => f.filename === 'README.md');
+            const lines = (readme?.patch || '').split('\n');
+            const added = lines.filter(l => l.startsWith('+') && !l.startsWith('+++') && l.trim() !== '+');
+            const removed = lines.filter(l => l.startsWith('-') && !l.startsWith('---') && l.trim() !== '-');
+            const addedRows = added.filter(l => /^\+\s*\|\s*\[.+\]\(https?:\/\/.+\)\s*\|.+\|\s*$/.test(l));
+            if (!readme) closeReasons.push("doesn't change README.md");
+            else if (addedRows.length !== 1 || added.length !== 1) fixReasons.push(`should add exactly one table row (found ${added.length} added line(s), ${addedRows.length} valid row(s))`);
+            if (removed.length) fixReasons.push(`removes or edits ${removed.length} existing line(s)`);
+
+            // 3. Blocklist (domains and users)
+            const urls = addedRows.flatMap(l => [...l.matchAll(/\]\((https?:\/\/[^)\s]+)\)/g)].map(m => m[1]));
+            for (const u of urls) {
+              let host = '';
+              try { host = new URL(u).hostname.toLowerCase().replace(/^www\./, ''); } catch {}
+              if (blockedDomains.some(d => host === d || host.endsWith('.' + d))) closeReasons.push(`links to a previously rejected domain (${host})`);
+            }
+            if (blockedUsers.includes(author.toLowerCase())) closeReasons.push('comes from an account whose submissions were previously declined');
+
+            // 4. Template and disclosure filled in
+            const ticked = (text) => new RegExp(`- \\[x\\]\\s*${text}`, 'i').test(body);
+            if (!/I read \[?CONTRIBUTING\.md/i.test(body)) closeReasons.push("doesn't use the PR template");
+            else {
+              if (!ticked('I read')) fixReasons.push('the CONTRIBUTING.md checkbox is not ticked');
+              const affiliation = ticked('I built') || ticked('I have no affiliation');
+              const agent = ticked('An AI agent') || ticked('A human');
+              if (!affiliation || !agent) fixReasons.push('the disclosure section (affiliation and AI agent) is not filled in');
+            }
+
+            // 5. One submission per contributor per month
+            const since = new Date(Date.now() - 30 * 24 * 3600 * 1000);
+            const recent = await github.paginate(github.rest.pulls.list,
+              { owner, repo, state: 'all', per_page: 100, sort: 'created', direction: 'desc' },
+              (res, done) => { const items = res.data.filter(p => new Date(p.created_at) >= since); if (items.length < res.data.length) done(); return items; });
+            const others = recent.filter(p => p.user.login === author && p.number !== pr.number);
+            if (others.length) fixReasons.push(`you've opened another PR here in the last 30 days (#${others.map(p => p.number).join(', #')}); the limit is one per month`);
+
+            // 6. Brand-new GitHub accounts
+            const { data: user } = await github.rest.users.getByUsername({ username: author });
+            const ageDays = (Date.now() - new Date(user.created_at)) / 86400000;
+
+            const labels = [];
+            if (ageDays < 90) labels.push('new-account');
+
+            const contributing = `https://github.com/${owner}/${repo}/blob/main/CONTRIBUTING.md`;
+            if (closeReasons.length) {
+              await github.rest.issues.createComment({ owner, repo, issue_number: pr.number,
+                body: `Thanks for the submission! This PR is being closed automatically because it ${closeReasons.join('; ')}.\n\nPlease see [CONTRIBUTING.md](${contributing}).` });
+              await github.rest.pulls.update({ owner, repo, pull_number: pr.number, state: 'closed' });
+              labels.push('auto-closed');
+            } else if (fixReasons.length) {
+              labels.push('needs-changes');
+              if (context.payload.action === 'opened') {
+                await github.rest.issues.createComment({ owner, repo, issue_number: pr.number,
+                  body: `Thanks for the submission! Before this can be reviewed:\n\n${fixReasons.map(r => `- ${r}`).join('\n')}\n\nSee [CONTRIBUTING.md](${contributing}). Edit the PR to fix these and this check will re-run.` });
+              }
+            } else {
+              labels.push('ready-for-review');
+              try { await github.rest.issues.removeLabel({ owner, repo, issue_number: pr.number, name: 'needs-changes' }); } catch {}
+            }
+            if (labels.length) await github.rest.issues.addLabels({ owner, repo, issue_number: pr.number, labels });
+            core.info(`close: ${closeReasons.join(' | ') || '-'}\nfix: ${fixReasons.join(' | ') || '-'}\nlabels: ${labels.join(', ')}`);
