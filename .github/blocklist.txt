@@ -1,3 +1,4 @@
 # Domains and GitHub usernames that have been rejected before.
 # One per line. Domains without "www." (e.g. example.com), usernames prefixed with @ (e.g. @spammer).
 # PRs that add a listed domain, or come from a listed user, are closed automatically.
+fondoblanco.org
