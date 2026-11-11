@@ -19,6 +19,7 @@ Thanks for helping make this list better! Here's how to add a resource.
 6. One submission per contributor per month.
 7. If you are the creator, the site must have been publicly live for at least 3 months.
 8. If an AI agent wrote or submitted the PR, say so. Undisclosed agent submissions will be closed.
+9. Fill in the PR template, including the disclosure section. An automated check closes PRs that skip the template, change files other than `README.md`, or link to previously rejected sites. It labels PRs that need fixes.
 
 ## What gets accepted
 
